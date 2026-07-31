@@ -27,8 +27,8 @@ export default{
             pag:0,
             AllP:[
                 {
-                    P:["/public/favicon.ico","/public/OIP-C.webp","/public/favicon.ico",
-                        "/public/favicon.ico","/public/favicon.ico","/public/favicon.ico","/public/favicon.ico",
+                    P:["/favicon.ico","/OIP-C.webp","/favicon.ico",
+                        "/favicon.ico","/favicon.ico","/favicon.ico","/favicon.ico",
                         "/public/OIP-C.webp","/public/OIP-C.webp"
                     ],
                 },
