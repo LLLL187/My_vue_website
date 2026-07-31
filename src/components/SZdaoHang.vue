@@ -88,7 +88,7 @@ export default {
 {
     width:100%;
     height: 500px;
-    background-image:url("D:/NodeJS/node_project/vue_1/public/OIP-C.webp") ;
+    background-image:url("/OIP-C.webp") ;
     background-repeat: no-repeat;
     background-size: 100% 500px;
     position: absolute;
