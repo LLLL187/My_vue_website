@@ -17,7 +17,7 @@ export default {
     data()
     {
         return{
-            company_name:'深圳公司',
+            company_name:'SZcompany',
             nav:
             [
                 {
