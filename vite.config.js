@@ -12,6 +12,9 @@ export default defineConfig({
     vueJsx(),
     vueDevTools(),
   ],
+  build:{
+    charset:'utf8'
+  }
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),
