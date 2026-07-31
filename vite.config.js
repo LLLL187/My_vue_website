@@ -14,7 +14,7 @@ export default defineConfig({
   ],
   build:{
     charset:'utf8'
-  }
+  },
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),
